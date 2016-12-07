@@ -1,0 +1,28 @@
+{
+    "name": "ericlagarda/locally",
+    "description": "Laravel 5 User Preferred Localization",
+    "keywords": [
+        "translate",
+        "eloquent",
+        "localization",
+        "multilingual"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mohammed Isa",
+            "email": "mohd.itcs@gmail.com"
+        },
+        {
+            "name": "Eric Lagarda",
+            "email": "dev@ericlagarda.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Smartisan\\Locally\\": "src"
+        }
+    }
+}
