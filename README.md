@@ -1,3 +1,5 @@
+## This is a fork to use removed package. Credits to [Mohammed Isa](https://github.com/mohd-isa)
+
 # Laravel 5 User Preferred Localization
 This package allows users to set the prefered site localization. Locales are based on ISO 639-1 standard.
 It automatically switch the site langage to the user preference. All you have to do is install it and set a locale for the user.
