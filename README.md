@@ -6,7 +6,7 @@ It automatically switch the site langage to the user preference. All you have to
 ## Installation
 You can install the package via composer
 ``` 
-composer require smartisan/locally
+composer require ericlagarda/locally
 ```
 Then you must configure the service provider by adding this in config/app.php
 ```
